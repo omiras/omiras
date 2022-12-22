@@ -6,7 +6,7 @@
 [Project repo](https://github.com/FOAP-NetMind-2022/beetlepush)
 <div style="width:400px">
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6988561128003932160/">
-![image](https://user-images.githubusercontent.com/3286458/209084416-453295bf-c510-4f52-b489-6690d8553ca8.png)
+<img src="https://user-images.githubusercontent.com/3286458/209084416-453295bf-c510-4f52-b489-6690d8553ca8.png">
 </a>
   </div>
 
