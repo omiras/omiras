@@ -4,8 +4,9 @@
 
 ### Cine de Barrio - Movie Game focused on the eldery - Vue 3 - Boostrap 5 - Public APIs
 [Project repo](https://github.com/Singulars2022/cinedebarrio)
-<img src="https://media.licdn.com/dms/image/C4E22AQGYNeJ_-BH8WA/feedshare-shrink_2048_1536/0/1651480774351?e=1674691200&v=beta&t=YfOXjrRn1c9qMzL_3zxJPkWPnsGll9g2B8r3ijOjOMo" alt="drawing" width="200"/>
-
+<div>
+<img src="https://media.licdn.com/dms/image/C4E22AQGYNeJ_-BH8WA/feedshare-shrink_2048_1536/0/1651480774351?e=1674691200&v=beta&t=YfOXjrRn1c9qMzL_3zxJPkWPnsGll9g2B8r3ijOjOMo" alt="drawing" width="400"/>
+</div>
 
 ### Valida.me - Build Dynamic Forms With Validation - NodeJS - Bootstrap 5 - MongoDB
 [Project repo](https://github.com/Formate-con-Altia/valida.me)
