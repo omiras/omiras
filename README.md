@@ -4,7 +4,7 @@
 
 ### BeetlePush - Game to Learn About Array Methods - Cloned from CSS Dinner - Refactoring - JS ES6 - NodeJS - MongoDB
 [Project repo](https://github.com/FOAP-NetMind-2022/beetlepush)
-<div style="width:400px">
+<div style="width:300px">
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6988561128003932160/">
 <img src="https://user-images.githubusercontent.com/3286458/209084416-453295bf-c510-4f52-b489-6690d8553ca8.png">
 </a>
