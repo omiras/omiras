@@ -1,5 +1,11 @@
 # ¡Hello World!
 
+## Exercises
+
+### Express / NodeJS
+
+- [Basic Express exercises (Spanish)](https://github.com/omiras/express-exercise-students)
+
 ## Final projects build by students
 
 ### BeetlePush - Game to Learn About Array Methods - Cloned from CSS Dinner - Refactoring - JS ES6 - NodeJS - MongoDB
