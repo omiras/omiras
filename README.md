@@ -4,7 +4,7 @@
 
 ### Crazy Tils - A memory game using Vue 3 and Cloudinary
 
-[Project repo]()https://github.com/PIMEC-2023/crazytiles
+[Project repo](https://github.com/PIMEC-2023/crazytiles)
 ![image](https://github.com/omiras/omiras/assets/3286458/c876f3b1-7235-4396-9cea-681df9ae8273)
 
 
