@@ -1,6 +1,6 @@
 # ¡Hello World!
 
-## Final projects build by students
+## Final projects built by students
 
 ### Crazy Tils - A memory game using Vue 3 and Cloudinary
 
