@@ -1,12 +1,12 @@
 # ¡Hello World!
 
-## Exercises
-
-### Express / NodeJS
-
-- [Basic Express exercises (Spanish)](https://github.com/omiras/express-exercise-students)
-
 ## Final projects build by students
+
+### Crazy Tils - A memory game using Vue 3 and Cloudinary
+
+[Project repo]()https://github.com/PIMEC-2023/crazytiles
+![image](https://github.com/omiras/omiras/assets/3286458/c876f3b1-7235-4396-9cea-681df9ae8273)
+
 
 ### BeetlePush - Game to Learn About Array Methods - Cloned from CSS Dinner - Refactoring - JS ES6 - NodeJS - MongoDB
 [Project repo](https://github.com/FOAP-NetMind-2022/beetlepush)
