@@ -26,7 +26,7 @@
 [Project repo](https://github.com/Singulars2022/cinedebarrio)
 <div>
   <a href="https://www.linkedin.com/posts/jromero-frontend-developer_frontend-html5-css-activity-6926902105328771072-1oTN?utm_source=share&utm_medium=member_desktop">
-<img src="https://media.licdn.com/dms/image/C4E22AQGYNeJ_-BH8WA/feedshare-shrink_2048_1536/0/1651480774351?e=1674691200&v=beta&t=YfOXjrRn1c9qMzL_3zxJPkWPnsGll9g2B8r3ijOjOMo" alt="drawing" width="400"/>
+<img src="https://media.licdn.com/dms/image/C4E22AQGYNeJ_-BH8WA/feedshare-shrink_2048_1536/0/1651480774351?e=1674691200&v=beta&t=YfOXjrRn1c9qMzL_3zxJPkWPnsGll9g2B8r3ijOjOMo" alt="Publicación Linkedin" width="400"/>
 </div>
   </a>
 
